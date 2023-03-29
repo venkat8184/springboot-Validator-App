@@ -48,4 +48,8 @@ private long mobile;
 		public void setMobile(long mobile) {
 			this.mobile = mobile;
 		}
+//This is test method
+public void test(){
+//this logic for test method
+}
 }
